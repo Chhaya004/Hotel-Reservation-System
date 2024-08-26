@@ -11,8 +11,7 @@ Features 🌟
 
 4] Delete Reservations: Remove reservations that are no longer needed.
 
-Getting Started 🚀
-i] Prerequisites
-ii] Java Development Kit (JDK)
-iii] MySQL Database
-iv] MySQL Connector/J (Java)
+ Prerequisites🚀
+i] Java Development Kit (JDK)
+ii] MySQL Database
+iii] MySQL Connector/J (Java)
